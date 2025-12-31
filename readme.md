@@ -1,5 +1,5 @@
 # NeRF — Representing Scenes as Neural Radiance Fields for View Synthesis  
-### Implementation by S. Bakhtiar Ahmed (24K-7622) & Umair (24K-7621)
+### Implementation by S. Bakhtiar Ahmed (24K-7622)
 
 ---
 
