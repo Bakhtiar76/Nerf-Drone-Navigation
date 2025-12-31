@@ -1,0 +1,32 @@
+name: nerfnav
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - cudatoolkit=11.3
+  - pytorch
+  - torchvision
+  - torchaudio
+  - ninja
+  - trimesh
+  - opencv
+  - tensorboardX
+  - numpy
+  - pandas
+  - tqdm
+  - matplotlib
+  - rich
+  - packaging
+  - scipy
+  - torchquad
+  - pysdf
+  - pip:
+    - imageio
+    - imageio-ffmpeg
+    - lpips
+    - torch-ema
+    - PyMCubes
+    - dearpygui
